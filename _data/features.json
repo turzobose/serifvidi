@@ -1,17 +1,17 @@
 [
   {
     "title": "Free Consultation",
-    "description": "New clients receive an obligation free consultation.",
+    "description": "New clients receive an obligation free consultation to understand your diverse business needs.",
     "image": "images/features/noun_branding_1885335.svg"
   },
   {
-    "title": "Certified Accountants",
-    "description": "All members of our team are certified accountants.",
+    "title": "Experienced Developers",
+    "description": "All members of our team have more than 3 years of experience developing tech solutions.",
     "image": "images/features/noun_The Process_1885341.svg"
   },
   {
-    "title": "Tax Compliance",
-    "description": "We stay up to date on the latest changes to the tax code.",
+    "title": "Growth Hackers",
+    "description": "We bring up-to-date technology to your business so it can excel limitlessly",
     "image": "images/features/noun_3d modeling_1885342.svg"
   }
 ]

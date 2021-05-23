@@ -1,12 +1,12 @@
 ---
-title: Jekyll Serif Theme
+title: Vidi Labs
 layout: home
-description: Jekyll Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+description: Vidi Labs is an award-winning startup under Hong Kong Science and Technology Park focusing on bringing tech solutions to the marginalised.
 intro_image: "images/illustrations/pointing.svg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
 ---
 
-# Serif - A Jekyll Business Theme.
+# Vidi Labs - your visual companion
 
-Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+Vidi Labs is an award-winning startup under Hong Kong Science and Technology Park with a vision to provide tech solutions to the marginalised.
