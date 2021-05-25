@@ -1,12 +1,23 @@
 ---
-title: "Business Sales"
+title: "Mobile Development"
 date: 2018-11-28T15:15:26+10:00
-featured: false
-weight: 3
+featured: true
+weight: 1
 layout: service
 ---
 
-Cyanee nec pedicis positi. Esse et diem forte quoque et ieiunia
+# Thinking of going mobile or having a problem growing your application?
+
+We are rooted in mobile development. We develop on both iOS and Android platforms. Depending on the product, we can work on native solutions using Swift and Kotlin or cross-platform using Flutter.
+
+Some of the types of apps that we have delivered to our clients in the past.
+
+- Ecommerce App
+- Healthcare App
+- F&B App
+
+
+<!-- Cyanee nec pedicis positi. Esse et diem forte quoque et ieiunia
 vixque dixit negari _ullis stamina_: trahit. Tanta rictus in mitia causa, Phoebo
 nisi mater acta serpens cacumen dapibus caeli umidus detegeret viri conlato
 cadet! [Ego](#natisque-tot-traiecta) vitis imagine stagna insidias redigentur
@@ -47,4 +58,4 @@ iuvenum **inamabile** perosae, **hostis foedantem Rutulos**.
 Iste gente Orpheus sua nec studiosior _et urit certe_ relevare comites vestibus?
 Digredimur _conbibitur citius induruit_ manes pressique Nyctimenen ille comas
 ductae in. Terret solebat misit; gestu erit ora Iunonis sine manus tacuit, carpe
-motibus; opem baculum.
+motibus; opem baculum. -->

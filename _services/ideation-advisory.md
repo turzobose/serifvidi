@@ -1,12 +1,16 @@
 ---
-title: "Business Advisory"
+title: "Ideation Advisory"
 date: 2018-11-28T15:14:39+10:00
 featured: true
 weight: 2
 layout: service
 ---
 
-Lorem markdownum, dictis umbrosum dextrum, Lelegeia quamquam distantes pares
+# Got a hunch that your idea will disrupt your industry, but need some help working out the details to ensure market success?
+
+Each venture starts with a problem worth solving. We'll help you validate your approach and nail down the idea with workshops and design sprints based on research & analysis. You’ll gain invaluable insights from experts and see your rough concept transform into a viable idea that will disrupt your industry.
+
+<!-- Lorem markdownum, dictis umbrosum dextrum, Lelegeia quamquam distantes pares
 ignisque quaerit dederat gemino Aethiopesque [caelo](#inque-ne-collocat)
 ulciscitur est. Morte [lugebere](#esse-ferro-nisi) conatur [Pallada
 quaerentes](#pia-non) tulit, **ignis vagatur undis**, latitantem ignemque non
@@ -58,4 +62,4 @@ habenas, ne dici Canenti.
 4. Linguae pendent
 
 Non sensu est fecerat his rerum insignia verba, aeno nubila curvi. Tutus sibi
-isset; nec non ille vero abstulit, ite est. Digitoque ora ego aethera, comas?
+isset; nec non ille vero abstulit, ite est. Digitoque ora ego aethera, comas? -->

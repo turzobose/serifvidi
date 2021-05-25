@@ -1,12 +1,22 @@
 ---
-title: "Business Sales"
+title: "Web Development"
 date: 2018-11-28T15:15:26+10:00
-featured: false
+featured: true
 weight: 3
 layout: service
 ---
 
-Cyanee nec pedicis positi. Esse et diem forte quoque et ieiunia
+# Wondering how to enter the market or develop your existing web-based product?
+
+Whether you want to build something from scratch or improve an existing product, our web team consists of talented Frontend, Backend and DevOps developers eager to take ownership and come up front with ideas uplifting your product.
+
+Some of the projects we have delivered to our clients include
+
+- Content Managemet Portal
+- User/Customer Management
+- Data Analytics
+
+<!-- Cyanee nec pedicis positi. Esse et diem forte quoque et ieiunia
 vixque dixit negari _ullis stamina_: trahit. Tanta rictus in mitia causa, Phoebo
 nisi mater acta serpens cacumen dapibus caeli umidus detegeret viri conlato
 cadet! [Ego](#natisque-tot-traiecta) vitis imagine stagna insidias redigentur
@@ -47,4 +57,4 @@ iuvenum **inamabile** perosae, **hostis foedantem Rutulos**.
 Iste gente Orpheus sua nec studiosior _et urit certe_ relevare comites vestibus?
 Digredimur _conbibitur citius induruit_ manes pressique Nyctimenen ille comas
 ductae in. Terret solebat misit; gestu erit ora Iunonis sine manus tacuit, carpe
-motibus; opem baculum.
+motibus; opem baculum. -->

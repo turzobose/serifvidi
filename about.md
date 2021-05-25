@@ -5,13 +5,29 @@ layout: page
 bodyClass: page-about
 ---
 
-Lorem markdownum aequalis strigis. _Saetigeri iubeas_, vultu huic alvum nondum
-de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
-crimen habet Priamum nec.
+Vidi Labs is an early-stage AI startup that aims to revolutionise how to interact with our hardware and software daily. Our young and passionate team wants to decentralise and streamline your journey, so that you can be the best version of yourself with our intuitively designed products.
 
-## Ne verba patulosque numen vix libet
+## Our Expertise
 
-Agitabitur signa lympha; non lacunae, mox cum tumulis quoque triste dictis.
+We specialize in delivery cutting edge tech solutions to business looking to grow. Our tech stack is diverse and our team is capable in delivering solutions catering to your need. Below are some of the tech stack that our team has delivered in the past
+
+### Front-End : 
+- Flutter, cross-platform app development
+- Dart, fast-apps development language
+- Ionic, web & app development framework
+- React & Angular JS, web development language
+
+### Back-end : 
+- Node JS, cross-platform web back-end Javascript Environment
+- MySQL, relational database system
+
+### Machine Learning and Deep Learning
+- Automated detection and classification using AI algorithms
+- Text to Speech and Speech to Text using NLP algorithms
+
+### Firebase & GCP, cloud back-end system
+
+<!-- Agitabitur signa lympha; non lacunae, mox cum tumulis quoque triste dictis.
 Ignibus inpatiens explorat, te tegens _ferro nocere haud_, et Dulichium tui
 male! Quo sed [fuit flexit et](#vexant-achivi) hic die solido, gloria?
 
@@ -49,4 +65,4 @@ Quantum auxilium datus; sed pineta et, iuvenes redito; credas mensae, meum. Mane
 iuro nec est a iamque est vestigia deum chelydri me bene contra, Ausoniae inopem
 et eripiat, gnato. Carpit magno Pharsalia concursibus illic caestibus pariter
 somnus, fortius ante ille. Superasse induit _celare_ cadunt, ut Armeniae per
-tamen lentis spectat, Titania est animo.
+tamen lentis spectat, Titania est animo. -->
