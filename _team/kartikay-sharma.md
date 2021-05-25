@@ -2,7 +2,7 @@
 title: 'Kartikay Sharma'
 date: 2018-12-20T13:44:23+10:00
 draft: false
-image: 'images/team/kartikay.png'
+image: 'images/team/Kartikay.png'
 jobtitle: 'UI/UX and Graphic Designer'
 linkedinurl: "https://www.linkedin.com/in/kartikaysh/"
 promoted: true
