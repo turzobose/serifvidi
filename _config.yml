@@ -2,7 +2,7 @@ baseurl: ""
 permalink: pretty
 title: 'Vidi Labs'
 
-google_analytics_id: ""
+google_analytics_id: "G-P439F5E6WM"
 
 homepage:
   show_call_box: true
@@ -17,14 +17,14 @@ footer:
   #copyright_text: 'Free Jekyll theme by <a class="zerostatic" href="https://www.zerostatic.io">www.zerostatic.io</a>'
 
 seo:
-  meta_og_title: "Vidi Labs"
+  meta_og_title: "Vidi Labs Limited - Revolutionizing Interaction | Mobile & Web Development | Machine Learning & AI"
   meta_og_type: "website"
   meta_og_url: "http://vidilabs.com.hk"
-  meta_og_image: "https://raw.githubusercontent.com/zerostaticthemes/jekyll-serif-theme/master/screenshots/tn.png"
-  meta_og_description: "Vidi Labs is Hong Kong based startup that focuses on bringing tech solutions to the marginalised"
-  meta_twitter_card: "summary"
-  meta_twitter_site: "@TurzoBose"
-  meta_twitter_creator: "@TurzoBose"
+  meta_og_image: "https://raw.githubusercontent.com/turzobose/serifvidi/gh-pages/images/logo/Vidi-Labs-Logo-Full.svg"
+  meta_og_description: "A Hong Kong based startup that focuses on revolutionizing everyday human interaction with different software and hardware products through AI and intuitive designs."
+  # meta_twitter_card: "summary"
+  #meta_twitter_site: "@TurzoBose"
+  #meta_twitter_creator: "@TurzoBose"
 
 collections:
   services:

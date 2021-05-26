@@ -10,4 +10,4 @@ weight: 3
 layout: team
 ---
 
-Kartikay loves to tinker with colors and shapes, and loves to explore the contemporary side of things. Most days, he is occupied with Adobe and Figma, and can be seen playing with different styles and patterns. If not at work, you can probably find him swimming in the TST harbour. 
+Kartikay loves tinkering with colors and shapes, and exploring the contemporary side of things. Most days, he is occupied with Adobe and Figma, and can be seen playing with different styles and patterns. If not at work, you can probably find him swimming in the TST harbour. 

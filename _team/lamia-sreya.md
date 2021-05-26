@@ -10,4 +10,4 @@ weight: 2
 layout: team
 ---
 
-Sreya loves to listen and really delve to the core of anything. She is a spirited soul, and deeply passionate about brining out the best from you. Writing is her forte, and we all look to her when we need someone decisive. When not working, you can probably find her at home studying for her law degree. 
+Sreya loves to listen and really delve to the core of any subject. She is a spirited soul, and deeply passionate about bringing out the best from you. Writing is her forte, and we all look to her when we need someone decisive. When not working, you can probably find her at home studying for her law degree. 
