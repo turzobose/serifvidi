@@ -58,6 +58,9 @@ models:
             name: meta_description
             label: meta_description
           - type: string
+            name: meta_keywords
+            label: meta_keywords
+          - type: string
             name: meta_og_title
             label: meta_og_title
           - type: string
